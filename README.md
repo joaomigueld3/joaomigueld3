@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Fullstack
+- 🔭 I’m currently working as Fullstack
 - 🌱 I’m currently learning Typescript, GraphQL, AWS, Docker
 - 📫 How to reach me: joaomigueld3@gmail.com
 - ⚡ Fun fact: I'm interested in economics
