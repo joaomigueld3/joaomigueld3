@@ -1,11 +1,11 @@
 ### Hi there, i'm João Miguel 
 
 
-
+- 🎓 I’m currently pursuing an MSc in Computer Engineering (UPE)
 - 🔭 I’m currently working as Fullstack
-- 🌱 I’m currently learning Typescript, GraphQL, AWS, Docker
+- 🌱 I’m currently learning AWS, AI, Typescript, Docker
 - 📫 How to reach me: joaomigueld3@gmail.com
-- ⚡ Fun fact: I'm interested in economics
+- ⚡ Fun fact: I like economics and philosophy 
 
 <div>
   <a href="https://beacons.ai/joaomigueld3">
