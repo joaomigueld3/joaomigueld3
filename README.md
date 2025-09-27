@@ -10,7 +10,7 @@
 <div>
   <a href="https://beacons.ai/joaomigueld3">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomigueld3&show_icons=true&theme=dark&include_all_commits=true&count_private=true" /img>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomigueld3&layout=compact&langs_count=16&theme=dark" /img>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomigueld3&layout=compact&langs_count=8&theme=dark" /img>
 </div>
 
 <div style="display: inline_block"><br>
